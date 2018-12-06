@@ -1,5 +1,5 @@
 ## DFS test manual
-Dynamic frequency scaling(DSF) is another low-power approach that ESP32 provides. in applications, we can adjust APB and CPU frequency.
+Dynamic frequency scaling(DFS) is another low-power approach that ESP32 provides. in applications, we can adjust APB and CPU frequency.
 
 This article shows how to set and use the DFS feature and how it performs. At the beginning of this article is how to configure DFS, and in the end is the test data.
 
